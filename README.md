@@ -1,2 +1,2 @@
-# L4COUR---LaTex
+# L4COUR LaTex
 This is an Archive of my LaTex files
