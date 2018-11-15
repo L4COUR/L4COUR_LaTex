@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1542159111 "template-letter.tex" "template-letter.pdf" "template-letter" 1542159111
+  "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1536239116 4220279 2b996636a3314d3c0a93d36587b7d0ab ""
+  "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
+  "aultrdesign.cls" 0 -1 0 ""
+  "template-letter.aux" 1542159093 8 a94a2480d3289e625eea47cd1b285758 ""
+  "template-letter.tex" 1542159111 1899 141f4f2e7afb831e72b0271a473d7d8c ""
+  (generated)
+  "template-letter.log"
+  "template-letter.pdf"
